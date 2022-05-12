@@ -6,8 +6,10 @@ public class clasa {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello!");
-		int a=6;
-		System.out.println("a=" + a);
+		int a = 6;
+		System.out.println("a = " + a);
+		int b = 8;
+		System.out.println("b = " + b);
 	}
 
 }
