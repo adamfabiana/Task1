@@ -12,6 +12,8 @@ public class clasa {
         String s1 = new String("hei!");
  
         System.out.println("String s1 = " + s1);
+        
+        System.out.println("Nu");
 	}
 
 }
