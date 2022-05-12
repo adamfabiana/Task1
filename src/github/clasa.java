@@ -10,6 +10,8 @@ public class clasa {
 		System.out.println("a = " + a);
 		int b = 8;
 		System.out.println("b = " + b);
+		int c = 10;
+		System.out.println("c = " + c);
 	}
 
 }
